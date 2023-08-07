@@ -8,6 +8,7 @@
       "fuelCapacity": "70L",
       "transmission": "Manual",
       "capacity": 2,
+      "description":"The Koenigsegg car is a high-performance, ultra-luxurious, and exclusive hypercar crafted by the Swedish automaker, Koenigsegg Automotive AB. Renowned for pushing the boundaries of automotive engineering, Koenigsegg cars are considered some of the fastest and most technologically advanced vehicles in the world."
       "rentalPrice": {
         "discountedPrice": 150.0,
         "actualPrice": 180.0
